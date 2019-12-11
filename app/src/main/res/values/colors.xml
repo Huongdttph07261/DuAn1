@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#1a1a1a</color>
+    <color name="colorAccent">#D81B60</color>
+    <array name="maunen">
+        <item>#aa00ff</item>
+        <item>#f50057</item>
+        <item>#ffd600</item>
+        <item>#00c853</item>
+        <item>#00b0ff</item>
+        <item>#c51162</item>
+        <item>#00e5ff</item>
+        <item>#4a148c</item>
+        <item>#311b92</item>
+        <item>#1a237e</item>
+        <item>#000051</item>
+
+    </array>
+</resources>
